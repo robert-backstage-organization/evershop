@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: evershop
+  description: E-commerce
+  annotations:
+    github.com/project-slug: robert-backstage-organization/evershop
+    sonarqube.org/project-key: evershop
+  tags:
+    - ecommerce
+    - react
+spec:
+  type: webapp
+  lifecycle: experimental
+  owner: principals
