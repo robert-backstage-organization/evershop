@@ -10,6 +10,6 @@ metadata:
     - ecommerce
     - react
 spec:
-  type: webapp
+  type: website
   lifecycle: experimental
   owner: principals
